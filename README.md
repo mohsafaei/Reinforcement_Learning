@@ -11,6 +11,10 @@ In this example, the libraries Gymnasium, NumPy, Pandas, and Matplotlib are used
 
 - The Monte Carlo Reinforcement Learning (RL) algorithm estimates the value of an action or state by averaging returns from multiple episodes that reach the target state, allowing it to improve decision-making over time. Unlike other RL methods, Monte Carlo requires complete episodes, which makes it effective but sometimes limited in environments where episodes are lengthy or rarely reach terminal states.
 
+- Q-Learning is an off-policy reinforcement learning algorithm that seeks to find the optimal action-selection policy by iteratively updating Q-values based on observed rewards. It enables agents to learn the best actions to take in each state, even without knowing the environment's model, making it highly effective in various decision-making tasks.
+
+
+
 
 
 Feel free to reach out if you have any questions.
