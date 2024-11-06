@@ -8,7 +8,7 @@ In this section, we aim to address the problem using two renowned algorithms: Mo
 In this example, the libraries Gymnasium, NumPy, Pandas, and Matplotlib are used. All code is written in the Jupyter Notebook platform.
 
 
-## The Monte Carlo Reinforcement Learning (RL) algorithm estimates the value of an action or state by averaging returns from multiple episodes that reach the target state, allowing it to improve decision-making over time. Unlike other RL methods, Monte Carlo requires complete episodes, which makes it effective but sometimes limited in environments where episodes are lengthy or rarely reach terminal states.
+- The Monte Carlo Reinforcement Learning (RL) algorithm estimates the value of an action or state by averaging returns from multiple episodes that reach the target state, allowing it to improve decision-making over time. Unlike other RL methods, Monte Carlo requires complete episodes, which makes it effective but sometimes limited in environments where episodes are lengthy or rarely reach terminal states.
 
 
 
